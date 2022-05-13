@@ -1,0 +1,49 @@
+.sections {
+    display: flex;
+    justify-content: space-evenly;
+
+}
+
+.top {
+    display: flex;
+    
+
+}
+
+.messages {border: 5px solid #e6e1d3;  
+width: 70px;
+    height: 20px;
+padding: 2px;
+}
+
+
+.pictures {
+    width: 10px;
+    width: 170px;
+    Height: 135px;
+    margin: 2px;
+    border: 5px solid #e6e1d3;
+    padding: 1px;
+
+}
+
+.profile-picture {
+    height: 120px;
+    border-radius: 50%;
+    border: 6px solid #e6e1d3;
+
+
+
+
+
+
+}
+
+
+
+.image {
+    display: flex;
+    justify-content: center;
+
+
+}
